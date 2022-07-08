@@ -1,6 +1,6 @@
 <h2> 👋   Hi there! I'm Mustafa TOLU...:wave: ✨ </h2>
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/source.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/source.gif" width="350" height="225" />
 
 
 
