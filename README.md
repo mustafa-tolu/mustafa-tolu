@@ -69,5 +69,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mustafa-tolu&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-tolu&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-tolu&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+
+<p align="center"> <[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) > </p>
+
 <!---
 **mustafa-tolu/mustafa-tolu** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
