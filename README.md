@@ -14,6 +14,8 @@
 
 
 ## :man: Social
+<br>
+
 |[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-tolu/)
 |[<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/mustafa-tolu)
 |[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:MM.tolu@gmail.com)
@@ -24,6 +26,7 @@
 <a href="https://www.sololearn.com/profile/25699773"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/489px-SoloLearn_logo.svg.png?20210710155454" alt="SoloLearn"  height="25"> </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa-tolu-04ba83104" alt="mustafa-tolu-04ba83104" /> </p>
 
+<br>
 
 ## 💻 Data Visualization
 
