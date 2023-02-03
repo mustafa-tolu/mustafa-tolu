@@ -76,7 +76,7 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://mccarter.gallerycdn.vsassets.io/extensions/mccarter/start-git-bash/1.2.1/1499505567572/Microsoft.VisualStudio.Services.Icons.Default" alt="bash" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" alt="colab" height="50"/> </a> 
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-%23E34F26.svg?&style=for-the-badge&logo=Jupyter&logoColor=orange" alt="jupyter" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-%23150458.svg?&style=for-the-badge&logo=Jupyter&logoColor=orange" alt="jupyter" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="35"/> </a> 
 
 
