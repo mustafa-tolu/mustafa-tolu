@@ -49,7 +49,7 @@
 <p>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" alt="SQLite" height="70"/> </a> 
-<a href="#" target="_blank">  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="mssql"  height="40"/>
+<a href="#" target="_blank">  <img src="https://img.shields.io/badge/MS%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="mssql"  height="40"/>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="40"/> </a> 
  </p>
