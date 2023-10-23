@@ -1,76 +1,40 @@
-<h2> 👋   Hi there! I'm Mustafa TOLU...:wave: ✨ </h2>
+## 👋Hi there! I'm Mustafa TOLU...👋 ✨
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/source.gif" width="350" height="225" />
 
 
 
-- 👀  - :telescope: I’m currently working on  Machine Learning, Deep Learning, NLP and Data Analysis (Matplotlib | Seaborn | Pandas's Own Visualization Features | Tableau )
-- 🌱 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
+- 🔭 I’m currently working on  Machine Learning, Deep Learning, NLP and Data Analysis (Matplotlib | Seaborn | Pandas's Own Visualization Features | Tableau )
+- 🌱  I am happy to teach you what I know and eager to learn what you will offer
 - 💞️  Slowly and steadily, I'm trying to be better than yesterday😉
 - 💬  Ask me about: Anything!
-- 📫  How to reach me: 
-
-
-
+- 📫  How to reach me: <br>
 
 ## :man: Social
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-tolu/)
-[<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/mustafa-tolu)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:MM.tolu@gmail.com)
-<a href="https://public.tableau.com/app/profile/mustafa.tolu"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="30"/> </a> <br>
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@mm.tolu)
-<a href="https://www.kaggle.com/mustafatolu"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Tableau" height="30"> </a>
-<a href="https://www.sololearn.com/profile/25699773"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/489px-SoloLearn_logo.svg.png?20210710155454" alt="SoloLearn"  height="25"> </a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa-tolu-04ba83104" alt="mustafa-tolu-04ba83104" /> </p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MM.tolu@gmail.com)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-tolu/)  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mustafatolu)  [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/mustafa.tolu)  [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/25699773)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mm.tolu)  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mustafa-tolu)  
 
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa-tolu-04ba83104" alt="mustafa-tolu-04ba83104" /> </p> 
 
 ## 💻 Data Visualization
 
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="30"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" height="45"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" height="40"/> </a> <br>
-<a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="30"/> </a>
+ ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)  <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" height="30"/> </a>
 
 ## 💻 Python Libraries
 
-<p>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="scipy" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/315810/92255284-156f1180-eea0-11ea-9d2d-be8262670e8c.png" alt="seaborn" height="45"/> </a> <br>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikitlearn" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Tensorflow" height="40"/> </a>
-</p>
-
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)  ![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)  <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" height="30"/> </a>
 
 ## 🧠 Languages
 
-<p>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" alt="SQLite" height="70"/> </a> 
-<a href="#" target="_blank">  <img src="https://img.shields.io/badge/MS%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="mssql"  height="40"/> <br>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="40"/> </a> 
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="40"/> </a> 
- </p>
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  ![MSSql](	https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
 
 ## ⚙ Tools
 
-<p>
-<a href="#" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png" alt="Github" height="60"/> </a> 
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual-studio" height="50"/> </a> 
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" height="40"/> </a>  <br>
-<a href="#" target="_blank"> <img src="https://mccarter.gallerycdn.vsassets.io/extensions/mccarter/start-git-bash/1.2.1/1499505567572/Microsoft.VisualStudio.Services.Icons.Default" alt="bash" height="50"/> </a> 
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" alt="colab" height="50"/> </a> 
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-%23150458.svg?&style=for-the-badge&logo=Jupyter&logoColor=orange" alt="jupyter" height="40"/> </a> 
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="35"/> </a> 
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)  ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  ![GitShell](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  ![GoogleColab](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)  
 
+## 📊 GitHub Stats:
 
-</p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mustafa-tolu&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=mustafa-tolu&theme=chartreuse-dark" alt="my github stats" height="4%" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-tolu&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-tolu&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 <!---
